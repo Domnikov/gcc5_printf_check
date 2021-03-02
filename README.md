@@ -1,5 +1,5 @@
 # gcc5_printf_check
-Compilation time checking printf string format and arguments checking.
+GCC5 printf string format compilation time checking function
 
 
 Using: 
